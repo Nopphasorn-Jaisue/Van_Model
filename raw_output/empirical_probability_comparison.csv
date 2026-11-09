@@ -1,0 +1,7 @@
+﻿Feature,Category,Synthetic_Weight,Empirical_Weight
+Requester Faculty,ICT / SCI (Empirical Share),0.50 / 0.30 / 0.20,"ICT: 0.642, SCI: 0.358"
+Trip Scope,In-Province / Out-Province,0.70 / 0.30,0.543 / 0.457
+Passenger Range,<=11 pax / >11 pax,0.80 / 0.20,1.000 / 0.000
+Vehicle Count,1 van / >1 van,0.90 / 0.10,1.000 / 0.000
+Trip Duration,1 day / 2 days / 3+ days,0.60 / 0.30 / 0.10,0.867 / 0.047 / 0.086
+Fleet Free Rate,Van Available Probability,0.700,"ICT: 0.691, SCI: 0.758"

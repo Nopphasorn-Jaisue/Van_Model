@@ -1,0 +1,5 @@
+﻿method,fulfillment,assigned,requested,full_requests,cross_loans,violations,v_overlap,v_rest,v_daily,v_weekly,runtime_s
+MILP,0.9,9,10,0.9,8,0,0,0,0,0,0.246
+FCFS-A (ไม่ตรวจกฎ),1.0,10,10,1.0,4,7,0,7,0,0,0.01
+FCFS-B (ตรวจกฎครบ),0.9,9,10,0.9,8,0,0,0,0,0,1.502
+Heuristic-SDF (ทริปสั้นก่อน),0.9,9,10,0.9,8,0,0,0,0,0,1.296

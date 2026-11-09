@@ -1,0 +1,20 @@
+# Temporary MS Word lock files
+~$*
+*.tmp
+
+# Legacy v5 draft files (superseded by testing_v6_Candidate.ipynb)
+testing_v5_Candidate.ipynb
+testing_v5_candidate0.py
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
